@@ -28,6 +28,7 @@
 ##### For each species, there is a positive correlation between flipper length and body mass in penguins. As flipper length increases, body mass tends to increase as well. Gentoo penguins have a larger body mass and longer flippers than Chinstrap and Adelie penguins.
 
 ### 4. What is the relationship between bill length and bill depth in penguins?
+<img width="605" alt="Screenshot 2023-05-08 at 2 07 47 PM" src="https://user-images.githubusercontent.com/124735350/236898378-aea3ff41-6b40-4ab6-83c4-95a66b380552.png">
 
 <img width="834" alt="Screenshot 2023-05-08 at 11 55 09 AM" src="https://user-images.githubusercontent.com/124735350/236871331-a968b7b8-dd70-4ca7-b129-60df3b6bff83.png">
 
